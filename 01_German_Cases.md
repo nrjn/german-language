@@ -1,41 +1,24 @@
-# German Cases (Kasus) — Why They Exist and Why You Already Understand Them
+# German Kasus — ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ — You Already Know This
 
-## The Problem: What Happens Without Cases?
+## Kasus and Vibhakti: The Same Idea, Two Languages
 
-In English, **word order is everything**. Change the order, change the meaning:
+Take this German sentence — "The man gives the dog the bone":
 
-> **The man** gives **the dog** **the bone**.  
-> **The dog** gives **the man** **the bone**.
+> **Der Mann** gibt **dem Hund** **den Knochen**.
 
-Same words. Completely different meaning. English has no way to mark *who is doing what* — it relies entirely on position.  
-Subject first, then verb, then objects. Break that order, and the sentence breaks.
+Now shuffle the words:
 
-Now try this in German:
-
-> **Der Mann** gibt **dem Hund** **den Knochen**.  
 > **Dem Hund** gibt **der Mann** **den Knochen**.  
-> **Den Knochen** gibt **der Mann** **dem Hund**.  
+> **Den Knochen** gibt **der Mann** **dem Hund**.
 
-Three different word orders. **Exact same meaning every time**: The man gives the dog the bone.
+Three word orders. **Exact same meaning every time.** How? Because **der**, **dem**, and **den** mark each noun's role — who is acting, who is receiving, what is being given — regardless of position.
 
-How? Because **der**, **dem**, and **den** are doing the work. They tell you the role of each noun — who is acting, who is receiving, what is being given — regardless of where the words sit in the sentence.
-
-That is what Kasus does. It frees the sentence from rigid word order by marking each noun's role directly.
-
----
-
-## You Already Know This: The Kannada Connection
-
-If this feels unfamiliar from an English perspective, forget English. Think in Kannada.
-
-Kannada does the exact same thing as German — not with articles at the beginning, but with **vibhakti pratyaya (ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ)** — suffixes at the end of words. The word ending tells you the role.
-
-Take the same sentence — "The man gives the dog the bone":
+Now do the same thing in Kannada:
 
 > **ಆ ಮನುಷ್ಯನು** **ನಾಯಿಗೆ** **ಮೂಳೆಯನ್ನು** ಕೊಡುತ್ತಾನೆ.  
-> *Aa manushya**nu** naayi**ge** muuLe**yannu** koduttaane.*
+> *Aa manushya**nu** naayi**ge** muuLe**yannu** koDuttaane.*
 
-Now shuffle it:
+Shuffle it:
 
 > **ನಾಯಿಗೆ** **ಆ ಮನುಷ್ಯನು** **ಮೂಳೆಯನ್ನು** ಕೊಡುತ್ತಾನೆ.  
 > *Naayi**ge** aa manushya**nu** muuLe**yannu** koDuttaane.*
@@ -43,9 +26,22 @@ Now shuffle it:
 > **ಮೂಳೆಯನ್ನು** **ಆ ಮನುಷ್ಯನು** **ನಾಯಿಗೆ** ಕೊಡುತ್ತಾನೆ.  
 > *MuuLe**yannu** aa manushya**nu** naayi**ge** koDuttaane.*
 
-Three word orders. Same meaning every time. The suffixes **-ನು (-nu)**, **-ಗೆ (-ge)**, **-ಯನ್ನು (-yannu)** lock in the roles, just like German **der**, **dem**, **den**.
+Three word orders. Same meaning every time. The suffixes **-ನು (-nu)**, **-ಗೆ (-ge)**, **-ಯನ್ನು (-yannu)** lock in the roles — exactly like German **der**, **dem**, **den**.
+
+**Same idea, different mechanism:** 
+- German changes the article *before* the word (der → dem → den). 
+- Kannada changes the ending *after* the word (-nu, -ge, -yannu). 
+- Both free the sentence from rigid word order. Both are case systems. German calls it **Kasus**. Kannada calls it **ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ (vibhakti pratyaya)**.
 
 **You already think in cases. You just didn't call them that.**
+
+Now try the same thing in English:
+
+> **The man** gives **the dog** **the bone**. ✅  
+> **The dog** gives **the man** **the bone**. ❌ — meaning completely changed!  
+> **The bone** gives **the man** **the dog**. ❌ — nonsense.
+
+English has no case markers. It relies entirely on word order: subject first, then verb, then objects. Move the words, break the meaning. German and Kannada don't have this problem.
 
 ---
 
